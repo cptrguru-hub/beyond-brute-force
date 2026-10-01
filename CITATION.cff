@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use or build on this work, please cite it as below."
+title: "Beyond Brute Force: AI's Database Moment"
+abstract: "A white paper arguing that the next major gains in AI will come from organization rather than scale. It diagnoses six structural inefficiencies in how large language models are built and proposes five architectural fixes, led by a semantic address space and locality by design, each with prior art and a falsifying experiment."
+authors:
+  - family-names: Moore
+    given-names: Robbie B.
+version: "1.0"
+date-released: 2026-10-01
+license: CC-BY-4.0
+repository-code: "https://github.com/cptrguru-hub/beyond-brute-force"
+url: "https://github.com/cptrguru-hub/beyond-brute-force"
+keywords:
+  - artificial intelligence
+  - large language models
+  - mixture of experts
+  - inference efficiency
+  - tokenization
+  - semantic address space
+preferred-citation:
+  type: report
+  title: "Beyond Brute Force: AI's Database Moment"
+  authors:
+    - family-names: Moore
+      given-names: Robbie B.
+  year: 2026
+  month: 10
+  url: "https://github.com/cptrguru-hub/beyond-brute-force"
