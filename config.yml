@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: General discussion
+    url: https://github.com/cptrguru-hub/beyond-brute-force/discussions
+    about: Questions, ideas, and open-ended debate about the proposals.
